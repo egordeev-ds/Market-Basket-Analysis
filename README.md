@@ -6,7 +6,8 @@ bought together in one consumer basket using efficient computational algorithms 
 ## **Implemented functionality**
 
 1. Data downloading via Kaggle API
-2. Exploratory Data analysis
-3. Finding insights
-4. Apriori algorithm implementation
-5. Finding most frequent pairs and triples of actors playing together in a movie
+2. Spark session configuration
+3. Exploratory Data analysis
+4. Finding insights
+5. Apriori algorithm implementation
+6. Finding most frequent pairs and triples of actors playing together in a movie
